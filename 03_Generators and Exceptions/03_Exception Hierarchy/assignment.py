@@ -5,8 +5,12 @@ try:
     print('The answer is: ', Second_vaule/First_value)
 
 # except function lets you fix the error
-# else block lets you execute code when there is no error
+# else block lets yo execute code when there is no error
 
+try:
+    #YOUDO divide number1 / number2 and set to answer
+    #YOUDO  print the result of the division (aka answer with some helper text)
+    pass  # YOUDO remove pass when done
 except ZeroDivisionError:
     print("You provided a 0 and division by 0 is not possible, sorry")
 except ValueError:
