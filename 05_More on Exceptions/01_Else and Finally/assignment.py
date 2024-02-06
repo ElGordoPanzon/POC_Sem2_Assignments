@@ -3,8 +3,8 @@
 number1 = 0
 number2 = 0
 try:
-    number1 = int(input("Enter a number"))
-    # YOUDO.  use input function and int to set number2
+    number1 = int(input("Enter a number: "))
+    number1 = int(input("Enter a second number:\n" ))
 except ValueError:
     print("An input was not correct")
 else:
