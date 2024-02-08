@@ -10,6 +10,6 @@ try:
 except ZeroDivisionError:
     print("division by zero is not possible.")
 else:
-    print("No values detected")
+    print("no values detected")
 finally:
     print("Values taken care of")
