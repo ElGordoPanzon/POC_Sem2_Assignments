@@ -2,6 +2,7 @@
 try:
     First_value = int(input('Enter a number: '))
     Second_vaule=int(input("Enter another : "))
+except:
     print('The answer is: ', Second_vaule/First_value)
 
 # except function lets you fix the error
