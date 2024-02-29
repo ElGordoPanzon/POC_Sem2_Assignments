@@ -8,4 +8,4 @@ except ZeroDivisionError:
 except ValueError:
     print("You did not provide a number, so i will not calculate the answer")
 except:
-    print("Something weird happened here, sorry")
+    print("Something weird happened here, sorry")mhjkhg
