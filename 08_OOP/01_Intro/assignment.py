@@ -1,7 +1,7 @@
 class RightTriangle:
     def __init__(self, base, height):
         self.base = base
-<<<<<<< HEAD
+
         self.height = height
     
     def area(self):
@@ -11,4 +11,3 @@ triangle_1 = RightTriangle(3, 4)
 print("The area of triange_1 is", triangle_1.area())
 triangle_2 = RightTriangle(5,6)
 print("the area of triangle_2 is", triangle_2.area())
-=======
