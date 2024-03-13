@@ -25,6 +25,7 @@ class Rectangle:
         
     
     def __str__(self) -> str:
+
         # Rectangle of base:3, height:4
         return "Rectangle of base:" + str (self.__base) + ", height:" + str (self.__height)
 
