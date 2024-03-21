@@ -17,4 +17,4 @@ mapped_div2_list = list (mapped_div2)
 print(mapped_div2_list)
 
 mapped_exp2_list = list(mapped_exp2)
-print(mapped_exp2_list)
+print(mapped_exp2_list) 
